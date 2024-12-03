@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">ShopEasy</div>
+        <nav>
+            <input type="text" id="search" placeholder="Search products..." />
+            <div id="cart">
+                🛒 Cart (<span id="cart-count">0</span>)
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <aside>
+            <h3>Filter</h3>
+            <div>
+                <label>
+                    <img src="./Images/Iphone.jpeg"><input type="checkbox" class="filter" value="electronics" />
+                    Electronics
+                </label>
+                <label>
+                    <input type="checkbox" class="filter" value="fashion" />
+                    Fashion
+                </label>
+                <label>
+                    <input type="checkbox" class="filter" value="home" />
+                    Home
+                </label>
+            </div>
+        </aside>
+        
+        <section id="products"></section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ShopEasy. All rights reserved.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
