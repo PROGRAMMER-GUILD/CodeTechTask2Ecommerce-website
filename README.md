@@ -6,6 +6,8 @@ Duration :  NOV-DEC
 Mentor : SRAVANI GOUNI
 
 Overview of Project
+![Uploading Screenshot from 2024-12-05 12-39-16.png…]()
+
 
 **E-COMMERCE WEBSITE**
 This e-commerce website allows users to browse and filter items by categories such as Electronics, 
