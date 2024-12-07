@@ -6,7 +6,8 @@ Duration :  NOV-DEC
 Mentor : SRAVANI GOUNI
 
 Overview of Project
-![Uploading Screenshot from 2024-12-05 12-39-16.png…]()
+ ![Ecommercewebsite](https://github.com/user-attachments/assets/762258d6-122c-4e6c-ad8c-45421bd593e6)
+
 
 
 **E-COMMERCE WEBSITE**
